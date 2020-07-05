@@ -38,7 +38,7 @@
 		</h3>
 
 		 <a href="menu.php"> Ir ao menu de exercícios </a> <br>
-		 <a href="ex2.php"> Próximo exercício </a>
+		 <a href="positivoOuNegativo.php"> Próximo exercício </a>
 
 
 
