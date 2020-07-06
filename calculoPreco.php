@@ -35,7 +35,7 @@
 		 		
 		</h3>
 		<a href="menu.php"> Ir ao menu de exercícios </a><br>
-		<a href="ex4.php"> Próximo exercício </a><br>
+		<a href="aprovadoOuReprovado.php"> Próximo exercício </a><br>
 		<a href="positivoOuNegativo.php"> Voltar ao exercício anterior </a>
 
 	 </form>
