@@ -7,9 +7,9 @@
 
 	<h1> Lista de exercícios WEB </h1>
 	<h3> Geovana Menezes Amorim </h3>
-	<a href="ex1.php">Exercício 1</a>
+	<a href="maiorOuMenor.php">Exercício 1</a>
 	<br>
-	<a href="ex2.php">Exercício 2</a>
+	<a href="positivoOuNegativo.php">Exercício 2</a>
 	<br>
 	<a href="calculoPreco.php">Exercício 3</a>
 	<br>
