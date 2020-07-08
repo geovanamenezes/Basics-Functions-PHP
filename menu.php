@@ -11,15 +11,15 @@
 	<br>
 	<a href="ex2.php">Exercício 2</a>
 	<br>
-	<a href="ex3.php">Exercício 3</a>
+	<a href="calculoPreco.php">Exercício 3</a>
 	<br>
-	<a href="ex4.php">Exercício 4</a>
+	<a href="aprovadoOuReprovado.php">Exercício 4</a>
 	<br>
-	<a href="ex5.php">Exercício 5</a>
+	<a href="calculoIdade.php">Exercício 5</a>
 	<br>
-	<a href="ex6.php">Exercício 6</a>
+	<a href="qualOmaior.php">Exercício 6</a>
 	<br>
-	<a href="ex7.php">Exercício 7</a>
+	<a href="ordemCrescente.php">Exercício 7</a>
 	<br>
 	<a href="ex8.php">Exercício 8</a>
 	<br>
