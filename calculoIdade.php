@@ -43,7 +43,7 @@
 		 		
 		</h3>
 		<a href="menu.php"> Ir ao menu de exercícios </a><br>
-		<a href="ex6.php"> Próximo exercício </a><br>
+		<a href="qualOMaior.php"> Próximo exercício </a><br>
 		<a href="aprovadoOuReprovado.php"> Voltar ao exercício anterior </a>
 
 	 </form>
