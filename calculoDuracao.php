@@ -48,7 +48,7 @@
 		</h3>
 		<a href="menu.php"> Ir ao menu de exercícios </a><br>
 		<a href="ex9.php"> Próximo exercício </a><br>
-		<a href="ex7.php"> Voltar ao exercício anterior </a>
+		<a href="ordemCrescente.php"> Voltar ao exercício anterior </a>
 
 	 </form>
 
