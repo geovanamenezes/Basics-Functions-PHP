@@ -53,7 +53,7 @@
 		</h3>
 		<a href="menu.php"> Ir ao menu de exercícios </a><br>
 		<a href="ex10.php"> Próximo exercício </a><br>
-		<a href="ex8.php"> Voltar ao exercício anterior </a>
+		<a href="calculoDuracao.php"> Voltar ao exercício anterior </a>
 
 	 </form>
 
