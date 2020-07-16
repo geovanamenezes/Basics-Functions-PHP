@@ -21,7 +21,7 @@
 	<br>
 	<a href="ordemCrescente.php">Exercício 7</a>
 	<br>
-	<a href="ex8.php">Exercício 8</a>
+	<a href="calculoDuracao.php">Exercício 8</a>
 	<br>
 	<a href="ex9.php">Exercício 9</a>
 	<br>
