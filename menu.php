@@ -23,7 +23,7 @@
 	<br>
 	<a href="calculoDuracao.php">Exercício 8</a>
 	<br>
-	<a href="ex9.php">Exercício 9</a>
+	<a href="calculoSalario.php">Exercício 9</a>
 	<br>
 	<a href="ex10.php">Exercício 10</a>
 	<br>
