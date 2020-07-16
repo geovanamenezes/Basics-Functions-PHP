@@ -25,7 +25,7 @@
 	<br>
 	<a href="calculoSalario.php">Exercício 9</a>
 	<br>
-	<a href="ex10.php">Exercício 10</a>
+	<a href="salarioFinal.php">Exercício 10</a>
 	<br>
 	<a href="ex11.php">Exercício 11</a>
 	<br>
