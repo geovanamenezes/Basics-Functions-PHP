@@ -27,9 +27,9 @@
 	<br>
 	<a href="salarioFinal.php">Exercício 10</a>
 	<br>
-	<a href="ex11.php">Exercício 11</a>
+	<a href="saldoPositivoOuNegativo.php">Exercício 11</a>
 	<br>
-	<a href="ex12.php">Exercício 12</a>
+	<a href="controleDeEstoque.php">Exercício 12</a>
 
 
 </body>
