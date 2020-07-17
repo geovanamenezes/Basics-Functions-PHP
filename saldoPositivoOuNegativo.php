@@ -57,7 +57,7 @@
 		 		
 		</h3>
 		<a href="menu.php"> Ir ao menu de exercícios </a> <br>
-		<a href="ex12.php"> Próximo exercício </a> <br>
+		<a href="controleDeEstoque.php"> Próximo exercício </a> <br>
 		<a href="salarioFinal.php"> Voltar ao exercício anterior </a>
 
 	 </form>
