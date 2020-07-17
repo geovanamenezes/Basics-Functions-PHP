@@ -60,7 +60,7 @@
 		 		
 		</h3>
 		<a href="menu.php"> Ir ao menu de exercícios </a> <br>
-		<a href="ex11.php"> Voltar ao exercício anterior </a>
+		<a href="saldoPositivoOuNegativo.php"> Voltar ao exercício anterior </a>
 
 	 </form>
 
